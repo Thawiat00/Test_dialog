@@ -1,0 +1,45 @@
+{
+    "chapters": [
+        {
+            "chapter": 1,
+            "title": "บทนำ",
+            "description": "บรรยากาศแห่งความลึกลับ...",
+            "dialogs": [
+                {
+                    "character": "Narrator",
+                    "message": "ในคืนที่ฝนตกหนัก..."
+                }
+            ]
+        },
+        {
+            "chapter": 2,
+            "title": "การเกริ่นตัวละคร",
+            "description": "ตัวละครจะเริ่มปรากฏ...",
+            "dialogs": [
+                {
+                    "character": "CharacterA",
+                    "message": "ฉันคือผู้พิทักษ์แห่งหุบเขานี้"
+                },
+                {
+                    "character": "CharacterB",
+                    "message": "และฉันคือผู้ตามล่า"
+                }
+            ]
+        },
+        {
+            "chapter": 3,
+            "title": "บทสนทนาเริ่มต้น",
+            "description": "การสนทนาที่จะเปลี่ยนแปลง...",
+            "dialogs": [
+                {
+                    "character": "CharacterA",
+                    "message": "ทำไมเธอถึงมาที่นี่?"
+                },
+                {
+                    "character": "CharacterB",
+                    "message": "ฉันมาเพื่อค้นหาคำตอบ"
+                }
+            ]
+        }
+    ]
+}
